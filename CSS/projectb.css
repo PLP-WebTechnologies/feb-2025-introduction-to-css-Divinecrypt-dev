@@ -1,0 +1,21 @@
+h1 {
+    color: PINK;
+    margin: 20px 0; /* Added margin for spacing */
+    text-align: center; /* Centered the heading */
+}
+
+li {
+    font-style: italic;
+    color: brown; /* Ensured color is consistent */
+    margin: 5px 0; /* Added margin for spacing */
+}
+
+h2 {
+    font-style: oblique;
+    color: darkmagenta;
+    margin: 15px 0; /* Added margin for spacing */
+    text-align: center; /* Centered the heading */
+}
+
+
+h2{color: darkmagenta;}
